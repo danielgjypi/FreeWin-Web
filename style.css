@@ -1,0 +1,13 @@
+.darker {
+    background: #17191c !important;
+}
+  
+body {
+    background: #111314 !important;
+    padding: 1em;
+}
+  
+.logo {
+    width: 14em;
+    height: 14em;
+}
